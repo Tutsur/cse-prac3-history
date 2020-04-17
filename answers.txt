@@ -1,0 +1,13 @@
+-- How many commits are there in total? 
+11 including the initial
+
+-- When was the last commit made? 
+Date:   Tue Mar 20 14:21:18 2018 +0200
+
+-- Who is the author of those commits? 
+Author: Stepan Bolotnikov <stjoopa@gmail.com>
+
+-- What changes were made in the commit with the SHA-1 hash 790a2aa?
+$ git show 790a2aa
+fatal: ambiguous argument '790a2aa': unknown revision or path not in the working tree.
+
